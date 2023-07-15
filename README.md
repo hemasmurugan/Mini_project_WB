@@ -1,7 +1,7 @@
 # Mini_project_WB
 The mini-project is a webpage on historical places in India<br>
 It has a Header as the title of the webpage along with an Indian Flag as a logo.<br>
-The Webpage has a brief description of 8 Historical PLaces in India along with links for further information.<br>
+The Webpage has a brief description of 8 Historical Places in India along with links for further information.<br>
 At the end there is also an Indian Anthem Audio.<br>
 [The Link to the Website](https://hemaweb123.000webhostapp.com/) <br>
 The are the images of the website:<br>
